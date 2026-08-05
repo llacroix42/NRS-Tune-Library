@@ -950,6 +950,23 @@ P:C
  "C"E3EE2 | E2D2C2 | "G7"B,4G2 | F6 | G3GG2 | F2E2D2 | "C"C3CC2 | C3 :|
 
 X:46
+%%NRChange 2026-08-05
+T:Maaliskuun Aurinko
+C:Teija Niku
+D:Karuna: Tuulisp\"a\"a (2016)
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+DGA |: "G"B2 BABd | "Gmaj7/B"A4 GF | "C"E2 D4- | "D7sus4 (†)"D3 DGA | "G"B2 BABd |
+"Gmaj7/B"A4 GF | "C"E2 EF GB | "D7sus4 (†)"A3 DGA | "G (Em)"B2 BABd | "Gmaj7/B"A4 GF | "C"E2 EC EG |
+"D7sus4 (†)"F3 G AF | "C"G2 B3 G | "D7sus4"A2 GF DF |1 "C"G6- | G3 D "D7sus4"GA :|2 "G"G6- | G2 zD GF |
+|: "C"E2 ED CE | "D"D3 D "G"GF | "C"E2 ED "Am"CE | "D"D3 D "D#dim7"GA |
+"Em"B2 BA Bd | "Gmaj7/B"A4 GF | "C"E2 EF "Am"GB |1 "D7sus4"A3 D "G"GF :|2 "D7sus4"A6- | A3 D GA |
+%%text (†) 1st time: hold these notes an extra 3 beats
+%%text Form: AABB AABBBB [sic] AA (fine)
+
+X:47
 %%NRChange 2010-02-05
 T:March of St Timothy
 O:England
@@ -969,7 +986,7 @@ P:B
 "D7"c/2d/2 A/2c/2|F/2A/2 D/2d/4d/4|"G"B/2d/2 G/2B/2|"G"D/2G/2 B,/2G/2|
 "Em"E3/4F/4 "A7"G/2E/2|"G"D/2G/2 B/2d/2|"Am"c/4B/4A/2 "D7"F/2A/2|"G"G2|]
 
-X:47
+X:48
 %%NRChange 2008-02-24
 T: Marche a Queteux Pomerleau
 C: attr Henri Landry	
@@ -985,7 +1002,7 @@ P:B
 "C"c2 "G"B2 | "D"BA/G/ A2 | "G"GD GA | BA/G/ "D"AA/B/ | "C"cz "G"B2 |"D"BA/G/ A3/A/ |
 "G"GD GB |[1 G2 GA/B/ :|[2G/A/B/G/ "D"DD |]
 
-X:48
+X:49
 %%NRChange 2023-06-05
 T:Marsj etter Erling Kj\/ok
 O:Norway
@@ -1014,7 +1031,7 @@ zG || "C"c2 cB/2c/2d2 "G7"de/2f/2 | "C"e2 "F"c>c "C"c2 "C7/E"eg |\
 "Dm7"fe "Em"dc "F"ed "G7"cB | "Am"c2 "Am/G"c>c "D7/F#"Hc2 eg|
 "Dm7"fe "Em7"dc "Fmaj7"ed "Gsus9"cB | "C"c2 "Csus"c>c "C"c4|]
 
-X:49
+X:50
 %%NRChange 2014-04-14
 T:Masurka
 C:etter Svein P. Eikeland
@@ -1030,7 +1047,7 @@ P:B
 "A (G)"G2 B>G B2 |"G"E>G B>G B2|"D"D>F A>G G>F|D>F A2A2|
 "G"G2 B>G B2|"Em" E>G B>G B2 |"D"D>F A>G G>F|D2 D4 :|
 
-X:50
+X:51
 T:Metsakukkia
 T:Woodland Flowers
 M:3/4
@@ -1053,7 +1070,7 @@ P:C
  "E"E2 ^G2 A2 | B4 E2 | "Am"E2 A2 B2 | c4 E2 |\
  "E"E2 ^D2 E2 | c4 B2 |[1 "Am"A6- | A z  a2^g2 :|[2 "Am" A6- | A4 |]
 
-X:51
+X:52
 %%NRChange 2026-06-07
 T:Mominette
 C:Jean-François "Maxou" Heintzen (1981)
@@ -1067,7 +1084,7 @@ K:Em
 "C"e2fg f2e2 | "D"dedc "G"B3B | !coda! "_To Coda""Am"cded cBAG | "B7"F2gf "Em"e4 :|
 !coda!"_Coda""C"cded "Am"cBAG | "B7"F2gf .e2"Em"z2 |] 
 
-X:52
+X:53
 %%NRChange 2008-02-24
 T: Montague Processional, The
 C: David Kaynor	
@@ -1082,7 +1099,7 @@ P:B
 "D"a3g"Ay"f2ec | "D"d6ef | "G"g3fe2d2 | "Em"B6ef | "G"g2fe"A"a3g |"D"f2d2"G"g2ag |
  "D"fafd "A7"egec |[1 "D"d4 "A7"defg :|[2 "D"d8 |]
 
-X:53
+X:54
 %%NRChange 2008-02-24
 T: Napoleon
 M: 4/4
@@ -1112,7 +1129,7 @@ P:B
 [V:1] "C"gb "Am"ge d2 "D"c/d/4c/4"D7"B/c/| "G"d2 "C"d>d "G"d4 |]
 [V:2]  Bd BG F2 E/F//E//D/E/ | F2 G>E F4 |]
 
-X:54
+X:55
 T:Nidelven
 A:Oscar Hodde
 C:Christian Christensen og Kjell Rian
@@ -1138,7 +1155,7 @@ w: gam-le by-bro er lyk-kens por-tal, Sam-men vi sei-ler i stjer-ne-ko-rall.
 "D"FDE | F"D7"G3/F/ | "A7"FE3/^D/ | E3 | EFG | F2 E | "D"ED2- | D2 z |]
 w: Nid-el-ven, stil-le og vak-ker du er, Her hvor jeg g\aar og dr\om-mer.
 
-X:55
+X:56
 %%NRChange 2026-06-01
 T:Nordlys Schottische
 C:Anja Praest, Karen Mose
@@ -1156,7 +1173,7 @@ P:B
 "Dm" d2 A2 d2 Ad |"C" e2 A2 e2 Ae | "Bb"f2 fe defd | "Am"e4 cAec |
 "G" =B2 BA GBdB | "Dm" A2 AF D2 DF |"C" E2 ED "Am" C2 A,2 | C2 D2 "Dm" D2 z2 :|
 
-X:56
+X:57
 T:Norsk Reinl\"ander
 R:reinl\"ander
 H:Se \"aven #11
@@ -1177,7 +1194,7 @@ P:C
 "Dm"d2d2 "C"c3B|"Dm"AGAB AFDE|F2F2 "Gm"GABG|"A"ABAG A=B^cA|
 "Dm"d2d2 "C"c3B|"Dm"AGAB AFDE|F2F2 "C"EDCE|"Dm"D2D2 D4:|
 
-X: 57
+X: 58
 %%NRChange 2023-06-05
 T: Oddville Cupola
 C: Claude Ginsburg
@@ -1201,7 +1218,7 @@ P:D
 |:"Bb"A3G F2G2- | G2E2 F4 | F2D2 D2EF | "C"G2E2 E2G2 |\
 "Bb"A3G F2G2- | G2E2 F4 | "Bb"F2D2 "Am"G2E2 | "G"D4 D4 :|
 
-X:58
+X:59
 %%NRChange 2016-08-16
 T: Oh, Kunne Du Mit Hjerte Se
 R: Fannik
@@ -1216,7 +1233,7 @@ P:B
 d | "A"e>(f g)ue | "D"a(a a)e/f/ | "G"g(f/e/) "D"df | "A"!trill!e3 d | 
 e>g fuf | "D"{f}e(d A)A/B/ | "C"=c(B/A/) "G"GB | "D"A3 :|
 
-X:59
+X:60
 T:Orevalsen
 R:Waltz
 O:Sweden
@@ -1237,7 +1254,7 @@ P:B
  "C"e2 c2 e2 | g3 gfe | "G"d2 B2 G2 | DE DC B,2 \
 | "D7"AB c2 A2 | "D7"F3 DEF | "G"G3 AGF | G6 :|
 
-X:60
+X:61
 %%NRChange 2019-04-30
 T: Ostindiens velkomet
 T: Welcome to the East India
@@ -1259,7 +1276,7 @@ P:B
  "G"G3G F2D2 | "C"E4- E2AB | "Am"c3c B2G2 | "F"A4- A2Bc | "G"d2d2 d2e2 |
  "C"c2cB "D7"A2Bc | "G"d3d d2e2 | "C"c2cB "D7"A2c2 | "C"B2AG "D7"A2GF | "G"G6 :|
 
-X:61
+X:62
 %%NRChange 2019-04-30
 T:Polska efter Byss-Kalle
 O:Uppland
@@ -1278,7 +1295,7 @@ P:B
 |: "G7"d2d2 d2ef "C"g2g2 | g2fe d2ef "G"g2B2 | "Am"(cB)"G/B"ce "C"~d2Bd (~cB)AG | "D7"(FG)AB (AG)FE D4 | 
 "G7"d2d2 d2ef "C"g2g2 |g2fe d2ef "G"g2B2 | "Am"(cB)"G/B"ce "C"~d2Bd (~cB)AG | "D7"(FG)AB A2BA "G"G4 :|
 
-X:62
+X:63
 T:Polska efter Hult Linrodt
 Z:Glenn Lee
 R:Polska
@@ -1293,7 +1310,7 @@ P:B
 "D"FA/F/ "Em"GF | E3 B/c/ | "G"dd/B/ GB/G/ | "D"FA/F/ "G"G>F |GA B z |
 "C"E>F GF | ED (E2 | E4):|
 
-X:63
+X:64
 %%NRChange 2026-02-05
 T:Polska fr\aan T\"arnsj\"o
 C:Trad. after Jon Erik Schedin
@@ -1309,7 +1326,7 @@ P:B
 |: d3B B2B2 {c}B2AB | c3A A2A2 {B}A2GA | B2AB c3A B3G | F2GF G2GD B,2D2 |
 d3B B2B2 {c}B2AB | c3A A2A2 {B}A2GA | B2AB c3A B3G |1 FGAF G6 B2 :|2 FGAF [G8 | D8] |]
 
-X:64
+X:65
 %%NRChange 2008-02-24
 T:Polska till Stockholms Spelmanslaget (Canoe Trip)
 C:(eller m\"ojligen Kanotresan?)
@@ -1325,7 +1342,7 @@ P:A
 P:B
 "D"vf2 df af | "A"e/f/e/d/ ce A2 | "G"B2 GB dB |[1 "A"A/B/A/^G/ uA4 :|[2 "A"(Avc) ea ua2 :|
 
-X:65
+X:66
 %%NRChange 2026-06-01
 T: Proptrækkeren
 T: Forkert polka (broken polka)
@@ -1346,7 +1363,7 @@ K:A
 %%text - YouTube: LØYLY Orchestra (2023?) https://www.youtube.com/watch?v=wFZU-MpM2wI
 %%text - CD: Habadekuk Hopsadaddy (2010)
 
-X:66
+X:67
 T:Redwing (Union Maid)
 R:polka
 Z:John Chambers <jc@trillian.mit.edu>
@@ -1364,7 +1381,7 @@ gf \
 |: "C"e2 c2 | eg fe | "G"d2 B2- | Bd ed | "D7"d2 A2- |
 [1 Ad ed | "G"d2 B2- | Bg f=f :|[2 Ac BA | "G"G4- | G2 z2 |]
 
-X:67
+X:68
 %%NRChange 2026-06-26
 T:Reinlender etter Ivar Fugelstad
 O:Norway
@@ -1381,7 +1398,7 @@ P:B
 |: "D"d>)c d>(f a2) a>(e | f>)(f e>)d "Am"c2 A2 | A>c "D"d>A "G"G2 A2 | "Am"c2 "G"(c>B) "Am"A2 A2 | 
 "D"d>c d>f a2 (a>e | f>)(f e>)d "Am"c2 (A>^c) | "A"e2 (f>e) "G"e>d (3(BA)G |1"A"A2 "D/A"A2 "A"!downbow!A2 z>(!downbow!A :||2 "A"A2 "D/A"A2 "A"A2 z2 | 
 
-X:68
+X:69
 T:Reinlender etter Ringnesen
 O:Norway
 A:Gudbrandsdal, Oppland
@@ -1408,7 +1425,7 @@ P:B
 [V:1] "G".g2B2 B>gf<e | "D".f2A2 A>fe<d | "A7"c2EF GABc | "D".d2.d2 d2 z2 :|
 [V:2] .d2g2 g2d<B | .A2d2 d2c<B | A3A E2G2 | .F2D2 D2 z2 :|
 
-X:69
+X:70
 %%NRChange 2018-02-05
 T:Rosenberg's Polska
 M:3/4
@@ -1431,7 +1448,7 @@ P:B
 [V:1]"D7"D/E/^F/G/ A>c BB/G/ | A/B/A/^F/ "Gm"G4 :||
 [V:2]A,/C/D/E/ ^F>F GG/D/ | ^F/E/D/C/ G,4 :||
 
-X:70
+X:71
 T:Rugen
 O:Norway
 C:Traditional
@@ -1450,7 +1467,7 @@ P:B
 |: "C"c>de>c A2>c2 | "G"B>cd>B G2>B2 | "D7"A>Bc>A F>DE>F |
  [1 "G"G2B>c d2d2 :| [2"G".G2G2 G2 z2 |]
 
-X:71
+X:72
 %%NRChange 2014-04-14
 T:Sackpipl\aat
 C:etter Carl Wahlstrom
@@ -1468,7 +1485,7 @@ P:B
 [V:1]{F}A2 FA "Am"=cBGB |"D" {=c}BA"Am"=ce "D"{^c}d2 d=c|A2 ~BA "A"GFEF|[1D6 DF :|[2D6|]
 [V:2]F2 DF AGEG | GFA=c A3G|F2 GF EDCB,|A,6 DE :| A,6 |]
 
-X:72
+X:73
 %%NRChange 2026-04-29
 T:Sankthansvalsen
 C:Gjermund Larsen
@@ -1500,7 +1517,7 @@ V:1
 V:2
 B c/ B c/ | A B/ A B/ | A3 | "_D.C. al Fine"D/C/ D/E/ F/G/ |]
 
-X:73
+X:74
 %%NRChange 2011-12-05
 T:Satumaa
 C:Unto Mononen 1952
@@ -1530,7 +1547,7 @@ P:B
 "Dm"A>d df | "Am"e>c cA |\
 "Dm"d>c "E7"cB | "Am"HA2 "E7"{ABcd}e2 |]
 
-X:74
+X:75
 %%NRChange 2018-02-05
 T:Savitaipaleen polkka
 T:Ievan polkka
@@ -1547,7 +1564,7 @@ P:B
 |: "D"fd df | "A"ec cd | "F#m"ef/e/ dc | "Bm"Bc de |
 "D"fd df | "A"ec cd | "F#7"ef/e/ dc | "Bm"B2 B2 :|
 
-X:75
+X:76
 %%NRChange 2018-02-05
 T:Schottis fr\aan Havero
 M:2/2
@@ -1564,7 +1581,7 @@ P:B
 "Dm"a2 a^g a2 a2|fgfe f2 f2|"A7"e2 e^c A2 A2|"(silent)"FGFE F2 D2|!
 "Dm"a2 a^g a2 a2|fgfe f2 f2|"A7"e2 e^c Acec|"Dm"d2 d2 d4:|!
 
-X:76
+X:77
 T:Schottisch fr\aan Idre II
 C:efter Storbo-J\"ons
 O:Sweden
@@ -1581,7 +1598,7 @@ P:A
 P:B
 |: "D"a2 a2 "A7"g2 eg | "D"f2 d2 "A7"e4 | "Dm"=f2 ag Tf2 ed |1,3 "A7"cd ed c2 A2 :|2,4 "A7"cd ec "D(m)"d4 :|
 
-X:77
+X:78
 T:Seksmannsril
 O:Norway
 C:Traditional
@@ -1602,7 +1619,7 @@ a2 |: "D"fdAd fagf | "A"ecAc egfe | "D"fdAd fagf | "A"edcB A2de |
 "D"fdAd fagf | "A"ecAc egfe | "D"fagf "A"egfe | "D".d2d2 d2 z2 :|
 |: "D"a2fd "G"B2ec | "A"A2AG "D"F4 | "A"E2FG A2Bc |[1 "D"d2ec d4 :|[2 "D".d2d2 d2 z2 |]
 
-X:78
+X:79
 %%NRChange 2008-02-24
 T:Sist i \/oykt'n
 M:3/4
@@ -1631,7 +1648,7 @@ e2|"C"ge ce ge|"G"gd Bd gd|"Am"ec Ac ec|"F"ec Ac ec| "G"B3cd2|
 dc B2 Bd| "C"c2cd e2|"G"e>d cd ec|"C"ge ce ge|"G"gd Bd gd|
 "A"ec Ac ec|"F"ec Ac ec| "G"B2Bcd2|dc B2Bd|"C"c2cd eg|c'4:|
 
-X:79
+X:80
 T:Sjoankans Vals
 T:Sea Duck's Waltz
 R:Waltz
@@ -1647,7 +1664,7 @@ P:B
 "D"F3 E DC |D2 F2 A2 | "G"G3 F Gd | "A"cA E4 | "G"G3 F Gd | "A"c4 Ac |
 e4 dc |[1 "D"d2 AG FE :|[2 "D"d6|]
 
-X:80
+X:81
 %%NRChange 2019-04-30
 T:Sk\"ankl\aat fr\aan Orsa
 T:Katherine's Mysterious Tune
@@ -1663,7 +1680,7 @@ P:B
 A/2c/2 | "B\u266d"B3/2A/2 Bc d2 d2 | "F"c/2d/2c/2A/2 F/2E/2F/2A/2 c B/2c/2 "D7"d3/2c/2 |
 "Cm"BG G3/2B/2 "D7"A/2B/2A/2^F/2 D^F | "Cm"AG "D7"^F/2G/2A/2^F/2 "Gm"G2 G :|
 
-X: 81
+X: 82
 %%NRChange 2025-07-12
 T: Sk\aalarna efter Byss Kalle (Nr. 9)
 O: Sweden
@@ -1682,7 +1699,7 @@ P: B
 A2A2 (AB)GB|A2D2 (DE)FG|A2A2 (AB)GB|A2D2 D2Ac|
 "G"(BA)GF G2Ac|(BA)GF G2A2|(BG)dG "D"(BA)dF|"G"[B,4G4][B,4G4]:|]
 
-X: 82
+X: 83
 %%NRChange 2017-10-23
 T: Skomakaren
 T: The Shoemaker
@@ -1700,7 +1717,7 @@ P: B
 [V:1]d3d(c2B2) | "D7"(B2A2)A2^F2 | D3D^F2(A<F) | "Gm"G6 :|
 [V:2]B3B(A2G2) | (G2^F2)F2D2 | A,3A,D2^F2 | [DB,]6 :|
 
-X:83
+X:84
 %%NRChange 2019-04-30
 T:Skr\"aplandschottis
 C:Mikhael Marin
@@ -1719,7 +1736,7 @@ P:B
 "D"A2!lowermordent!A2A2G>F |"C"C>E G>E "D"D>F A>F | "G"G>A B>A G>F E>D | 
 "C"C>E G>E "D"D>F A>F |[1 "G"G2G>FG2G>F:|][2"G"G2G>FG2z2|] 
 
-X:84
+X:85
 %%NRChange 2018-03-29
 T:Slangpolska fr\aan Sm\aaland
 T:Slangpolska efter Juringius
@@ -1736,7 +1753,7 @@ P:B
 |: "A"c>c Fc Fc | "Bm"d>c Bc de | "A"c>c Fc Fc | "Bm"d>c Bc de |
 "A"e>e Ae Ae | "D"f>e de fg | "Bm"f2 ed c>B | "A"A/2B/2c/2A/2 "Bm"B4 :|
 
-X:85
+X:86
 %%NRChange 2018-02-05
 T:Sluskasl\aaten
 O:Norway
@@ -1751,7 +1768,7 @@ P:B
 |: "G"B2 B2 g2 g2 | "D"f2 df (af)df | "A7"feef gece | "D"d2 df A3 (A|"G"B2) B2 "Em"g2 g2 |
 "D"f2 df "Bm"(af)df | "Em" feef "A7"geBc |[1"D"d2 d2 d3 c :|[2"D"d2 d2 d3 z |]
 
-X:86
+X:87
 T:Smed-Jens vals
 C:Annar Gjelten 1995
 O:Norway
@@ -1768,7 +1785,7 @@ P:B
 |: FG | "D"A2 F3 G | A2 fe dc | "G"B2 G2 A2 | "Em"B2 ed cB | "A7"A3 GFG |
 [1 A2 E2 G2 | "D"F3 EFE | D4 :|2 "A7"A2 B2 c2 | "D"d3 edc | d4 :|
 
-X:87
+X:88
 T:Sommarvalsen
 C:Ale M\"oller
 O:Sweden
@@ -1786,7 +1803,7 @@ P:B
 "Bm"d>c B/A/|"C"GFG|"D"A BA|"Em"G>AG|"D"F>GF|
 "C"E>FE|"G"DGA|B>AG|"D7"A/d/-dF|"G"G3-|G:|
 
-X:88
+X:89
 T: Sommerhambo
 C: Mogens Jul Christensen
 F: http://www.folketshus.dk/cgi-bin/visnode.cgi?ha-sommer
@@ -1819,7 +1836,7 @@ W:H\or musikken, hvor den klinger,
 W:det er li'som man f\aar vinger.
 W:Livsglden breder sig p\aa en herlig sommerdag.
 
-X:89
+X:90
 %%NRChange 2016-08-16
 T:Steffaleken
 T:R\/orospols
@@ -1838,7 +1855,7 @@ K:D
 |: "A7"a4 a-f3 g3e | "D"f4 f-d3 e3f | "A7"((3:4geg) "(D)"((3:4fdf) "(A)"e3c | "D"((3:4def) d-c3 "A7"A3A |
    "A7"a4 a-f3 g3e | "D"f4 f-d3 e3f | "A7"((3:4geg) "(D)"((3:4fdf) "(A)"e3c | "D"vd4 ud8 :|
 
-X:90
+X:91
 %%NRChange 2023-06-05
 T:Steffen-rock
 O:Denmark
@@ -1854,7 +1871,7 @@ P:B
 |:"Dsus"GA/B/ cB B2 A2 | de/f/ ge e2d2|\
 GA/B/ cB B2 A2 | "C"ec "D7sus"AF "G"G2 [GG,]2:|
 
-X:91
+X:92
 %%NRChange 2018-02-07
 T:Stenberg's Brudmarsch
 T:Cajsa's G\aangl\aat
@@ -1872,7 +1889,7 @@ P:B
 |:B/d/|"Em"gg a3/f/|"Am"dd "D"d3/c/|"G"Bc/B/ "D7"AB/A/|"C"GB "D"d3/ d/|
 "Em"gg a3/f/|"Am"dd "D"d3/c/|"G"Bc/B/ "D7"AB/A/|"G"G2z:|
 
-X:92
+X:93
 %%NRChange 2019-08-20
 T:Storm
 O:Denmark
@@ -1889,7 +1906,7 @@ P: B
 |:BB | "G"B2G2 B2GB | "D"A2DD D2cc | c2A2 c2A2 | 
 "G"B2G2 B2d2 | "C"e2d2 e2f2 | g2e2 d2c2 | "G"B4 "D"A4 | "G"G6 :|
 
-X: 93
+X: 94
 T: Stures Schottis
 K:Gm
 M:4/4
@@ -1901,7 +1918,7 @@ P:B
 |:"Bb"B3/2d/ d/d3/2 B3/2d/ d/d3/2 |B3/2d/ d/d3/2 edcB |"F"A3/2c/ c/c3/2 A3/2c/ c/c3/2 |A3/2c/ c/c3/2 "D7"dcBA |
 "Cm7"G3/2B/ B/B3/2 G3/2B/ B/B3/2 |G3/2B/ B/B3/2 cBAG |"D"D2 ^FA d3/2c/ B/A3/2 ||1"Gm"G2 B2 G2 A2 :|2"Gm"G2 B2 G2 |]
 
-X:94
+X:95
 T:Styggen p\aa L\aaven
 C:anon.
 O:Norway
@@ -1928,7 +1945,7 @@ P:B
 [V:1]"G"D2 B2 DB DB|"D7"B2 A2 A>^G A2|"D7"d2 f>e d>c B>A|"G"G2 G2 G2 z2:|
 [V:2]B2 d2 Bd Bd | d2 c2 c>B c2 | d2 d2 c2 c2 | B2 B2 B2 z2:|
 
-X:95
+X:96
 T:Svensk Annas Vals (Svenskarnasvalsen)
 O: Sweden
 R: Waltz
@@ -1957,7 +1974,7 @@ P:B
 [V:2] F2 A | F> DE/F/ | G2 B | [G2E2] G/B/ \
 | A> BA/G/ | F A G | F> GF/E/ | F2 :|
 
-X:96
+X:97
 %%NRChange 2016-08-16
 T: The Fiddle School
 O: Denmark
@@ -1972,7 +1989,7 @@ P:B
 "A drone"E2(ED) (EF)GB | (BA)AF D2 (DF) | E2(ED) (EF)GB | (BA)^GA Bc(de) | 
 "D"f2 (fa) d2 (dc) | "G"B2 (Bd) "Em7"G2 GF | "A"EFGA Bcde | (fd)ce "D"d2 z2:|
 
-X:97
+X:98
 T:Time Will End
 M:2/4
 L:1/8
@@ -1989,7 +2006,7 @@ P:B
 [1 "C"E3 D | "Em"E3 D | "D"EF GA | "G"BG gf | "C"(3efg dB | "D"AG BA | "G"G3 A | BA GF :|
 [2 "Em"E2 DE | "G"GA BG | "C"ed cB | "D"AG FD | "C"EF GA | "D"BA GF | "G"G4 |]
 
-X:98
+X:99
 %%NRChange 2017-10-23
 T:Toulpagorni
 M:3/2
@@ -2015,7 +2032,7 @@ M:2/2
 [1 "A"A3 E ABce :|2 "A"A4A2z2 |]
 
 
-X:99
+X:100
 %%NRChange 2026-02-05
 T:Trollspolskan
 T:(The Troll's Polska)
@@ -2028,7 +2045,7 @@ K:Dm
 |:"F"a>g f>e f>a|"C"g>a g>e c2|"Dm"f>e d>^c d>f|"A7"e>f e>^c A2|
 "Bb"d>c B>A B>d|"F"c>d c>B F2|"A7"E>F E>D ^C>E|"Dm"D2D4:|
 
-X:100
+X:101
 %%NRChange 2010-02-05
 T: V\"ank\"arin Polska
 C: Andy May
@@ -2045,7 +2062,7 @@ P: B
 |:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
 F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||
 
-X:101
+X:102
 %%NRChange 2016-08-16
 T: Vals fr\oa Romsdal
 O: Norway
@@ -2069,7 +2086,7 @@ P: B
 [V:1]"Dm"f2f | "A7"e2A | "Dm"f2f | "A7"e2 f/g/ | "Dm"afd | "A7"ed^c | "Dm"d>d d | d2 A :|
 [V:2]a2 a | g2 e | d2 d | ^c2 A | dAG | AEA | F>F F | F2 A :|
 
-X:102
+X:103
 %%NRChange 2026-06-23
 T:Valssi fra Jeppo
 T:Viktor's waltz
@@ -2086,7 +2103,7 @@ K:Dmix
 |: "D" d2 AF Ac | "Gm" !trill!_B2 AG =F2 | "C"E2 EC EG | "D"{E}^F2 DE FA |
 "D" {c}d2 AF Ac | "Gm" !trill!_B2 AG =FG | "C"E2 EC E^F |1 "D"D2 D4 :|2 "D" D6 || 
 
-X:103
+X:104
 %%NRChange 2018-02-05
 T:Vidar's Vals
 C:Vidar Skrede
@@ -2105,7 +2122,7 @@ P:B
 "G(Em)"[B2DG,2] ba g2 | "G/B(Bm)"[f4B4] [f2B2] | "C"[g4c4] [a2c2] | [c4E4] ~([cE]B) | "Am"({G}A2) A(G A)B |
 "C"({cB}c2) (cD) "D"[FA,][FA,] | "G"[G2G,2] [AG][GG,] ([AG]B) |[1 [G4G,4] (GA) :|[2 G4 (GE) |]
 
-X:104
+X:105
 T: Vil Du Vera Med Og F\/olgja Gaml\oa Ned I Grav\oa?
 C: after Nils Nes
 O: Norway
@@ -2121,7 +2138,7 @@ P: B
 G2 B2 G2 B>B | A>G F>E E>D D>F | A,2 A,>C E2 E2 | E>D F>A d4 | 
 G2 B2 G2 B>B | A>G F>E E>D (3DFA | d2 F>A A>G E>C | D2 D2 D3 D:|] 
 
-X:105
+X:106
 T:Villiruusu (The Wild Rose)
 T:Inarin J\"arvi (Lake Inari)
 R:Waltz
@@ -2138,7 +2155,7 @@ P:B
 |: a | "A7"a2g | "Dm"f2f | "Gm"g2f | "A7"e2e | "Dm"f2e | "Dm"d2d | "A7"e2^c | A2A ||
 "Dm"d2d | f2d | "Gm"d3 | G2B | "A7"A2A | Ae^c | "Dm"d3- | d2 :|
 
-X:106
+X:107
 %%NRChange 2008-02-24
 T: Vintervals
 C: Michael Sommer 2004
@@ -2158,7 +2175,7 @@ P:B
 [V:1]"Fmaj7"agf | "F/a"e>fg | "Bb"d>ef | "F"c2A | "Gm"B>cd | "C7"efg | "F"f>f "(Bb/c)"f | "F"f2z :|
 [V:2]{A}e2d | cAc | B2d | A2F | G>AB | c2B | A>AB | A2z :|
 
-X:107
+X:108
 T:Wednesday Polka
 Q:1/4=100
 M:4/4
@@ -2172,7 +2189,7 @@ P:B
 G/A/B/c/ dB ce dB | cB A G/A/ B/c/B A2 |
 G/A/B/c/ dB ce dB | cB A G/A/ G2 G2 :|
 
-X:108
+X:109
 T: Willafjord Reel
 O: Shetland
 M: 4/4
