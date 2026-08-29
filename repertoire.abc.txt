@@ -1086,6 +1086,7 @@ T:Woodland Flowers
 M:3/4
 L:1/8
 O:Finland
+R:Waltz
 Z:1998 by John Chambers <jc@trillian.mit.edu>
 Q:1/4=160
 F:http://home.insightbb.com/~otter256/dance/10thstreet.abc
@@ -1107,6 +1108,8 @@ X:54
 %%NRChange 2026-06-07
 T:Mominette
 C:Jean-François "Maxou" Heintzen (1981)
+O:France
+R:Schottis
 M:2/4
 L:1/16
 %Q:1/4=160
@@ -1314,6 +1317,8 @@ X:64
 T:Pilvi & Eskos Brudvals
 T:A Wedding Waltz made for Pilvi and Esko Järvelä.
 C:Roger Tallroth
+O:Sweden
+R:Waltz
 L:1/4
 %Q:1/4=135
 M:3/4
@@ -1723,6 +1728,8 @@ X:84
 %%NRChange 2026-08-28
 T:Skagit Valley
 C:Pat O'Loughlin
+O:USA
+R:Jig
 M:6/8
 L:1/8
 Q:3/8=120
@@ -2261,6 +2268,8 @@ X:113
 %%NRChange 2026-08-29
 T:Werkstattfest - schottis
 C:Johannes Mayr of Trio Larsson/Mayr, June 14, 2014
+O:Germany/Sweden
+R:schottis
 M:2/4
 L:1/16
 Q:1/4=120
