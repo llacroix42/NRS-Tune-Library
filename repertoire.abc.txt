@@ -455,7 +455,7 @@ d|:"Gm (Ebmaj7)"B>c dd | "Gm/Bb (Ebmaj7)"B>c d d | "Cm (F)"cBAc | "Dsus4 (C)"B A
 %%text BB
 
 X:23
-%%NRChange 2008-06-29
+%%NRChange 2008-08-29
 T:Fred Picknell's Marsch
 C:Andy May, Newcastle
 Q:1/2=68
