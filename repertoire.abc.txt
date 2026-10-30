@@ -110,8 +110,10 @@ P:B
 [V:2] D E F | E C3/ C/ | B, C D | (C3 | C2 ) :|
 
 X:7
+%%NRChange 2026-10-30
 T:Archaic polska from \"Osterbotten
 C:traditional
+R:Polska
 S:ASI fiddle workshop by Arto J\"arvel\"a
 O:Ostrobothnia, Finland
 M:3/4
@@ -126,6 +128,7 @@ M:2/4
 M:3/4
 |:"Dm"A2 "(Bbmaj7)"AF D2 | "G"G>G GB d2 | (dc) c{Bc}B Ad |1"F"c{Bc}B A2 AG |2"F"c{Bc}B A3 G ||
 T:Hopsar
+R:Hopsar
 O:Norway
 K:Ddor
 M:2/4
